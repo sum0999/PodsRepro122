@@ -1,0 +1,6 @@
+framework module Pods_iOSReproPodsIssue122 {
+  umbrella header "Pods-iOSReproPodsIssue122-umbrella.h"
+
+  export *
+  module * { export * }
+}

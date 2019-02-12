@@ -1,0 +1,6 @@
+framework module Pods_iOSReproPodsIssue122UITests {
+  umbrella header "Pods-iOSReproPodsIssue122UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
