@@ -6,8 +6,28 @@
 	<dict>
 		<key>iOSReproPodsIssue122.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>56C46AEF22130A3200F748AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>56C46B0322130A3800F748AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>56C46B0E22130A3800F748AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
